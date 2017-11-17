@@ -1,0 +1,33 @@
+body {
+            background: #808080;
+            background: -webkit-linear-gradient(left,#808080,#7f5a5a);
+            background: -moz-linear-gradient(left,#808080,#7f5a5a);
+            background: linear-gradient(left,#808080,#7f5a5a);
+
+            color {
+            background: #81ffef;
+            background: -webkit-linear-gradient(left,#81ffef,#f067b4);
+            background: -moz-linear-gradient(left,#81ffef,#f067b4);
+            background: linear-gradient(left,#81ffef,#f067b4);
+            }
+
+}
+
+body {
+	margin-top: 70px;
+}
+h1 {
+	color: #FFFFFF;
+	line-height: 1em;
+}
+
+h4 {
+	line-height: 1em;
+	font-family: Arial Narrow;
+}
+
+.hue {
+	-webkit-linear-gradient(left,#81ffef,#f067b4);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
